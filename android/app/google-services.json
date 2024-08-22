@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "811650161654",
+    "project_id": "proj01-feba2",
+    "storage_bucket": "proj01-feba2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811650161654:android:c6bf4aa20b661ae40345d7",
+        "android_client_info": {
+          "package_name": "com.example.approver"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxNCqxKYHxnojzFIcjy5SR0zC4ytNCFns"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
